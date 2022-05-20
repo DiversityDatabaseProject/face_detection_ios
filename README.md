@@ -48,7 +48,7 @@ _Please do not delete the empty references_ to the .tflite and .txt files after 
 
 ## Model Used
 
-This app the pre-trained model, <a href="http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.tar.gz">ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8</a> using our own weights. The input image size required is 640 X 640 X 3. You can find more information on the research on object detection [here](https://github.com/tensorflow/models/tree/master/research/object_detection).
+This app uses the pre-trained model, <a href="http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8.tar.gz">ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8</a> using our own weights. The input image size required is 640 X 640 X 3. You can find more information on the research on object detection [here](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
 The TFLite converted model used in this repository was a result of this project: https://github.com/DiversityDatabaseProject/Tensorflow_ObjectDetection
 
