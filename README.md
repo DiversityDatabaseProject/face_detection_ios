@@ -63,7 +63,10 @@ for performing image classification.
 Note: Objective-C developers should use the TensorFlow Lite
 [Objective-C library](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/objc).
 
-## Image captures from live detection
+## Deployment and Distribution
+See PDF Documents under [docs folder](https://github.com/DiversityDatabaseProject/face_detection_ios/tree/main/docs).
+
+## Image Captures from Live Detection
 
 <img size="75%" src="https://github.com/DiversityDatabaseProject/face_detection_ios/blob/main/app_detection_captures/TFLite06_group1.PNG"></a><br>
 <img size="75%" src="https://github.com/DiversityDatabaseProject/face_detection_ios/blob/main/app_detection_captures/TFLite06_group2.PNG"></a><br>
