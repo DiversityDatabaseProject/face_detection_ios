@@ -52,6 +52,8 @@ This app uses the pre-trained model, <a href="http://download.tensorflow.org/mod
 
 The TFLite converted model used in this repository was a result of this project: https://github.com/DiversityDatabaseProject/Tensorflow_ObjectDetection
 
+For more detailed instructions on the workspace installation, see the [Official Tensorflow Documentation](https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/ios/README.md).
+
 ## iOS App Details
 
 The app is written entirely in Swift and uses the TensorFlow Lite
@@ -61,4 +63,8 @@ for performing image classification.
 Note: Objective-C developers should use the TensorFlow Lite
 [Objective-C library](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/objc).
 
-## Code Edits, Deployment and Modifications by Maria Rosario SEBASTIAN 2022
+## Image captures from live detection
+
+<img size="75%" src="https://github.com/DiversityDatabaseProject/face_detection_ios/blob/main/app_detection_captures/TFLite06_group1.PNG"></a><br>
+<img size="75%" src="https://github.com/DiversityDatabaseProject/face_detection_ios/blob/main/app_detection_captures/TFLite06_group2.PNG"></a><br>
+
